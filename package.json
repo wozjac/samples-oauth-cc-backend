@@ -8,7 +8,7 @@
     "url": "git+https://github.com/wozjac/samples-oauth-backend.git"
   },
   "author": "Jacek Woźniczak <wozjac@zoho.com> (https://jacekw.dev)",
-  "license": "MIT",
+  "license": "Unlicense",
   "homepage": "https://github.com/wozjac/samples-oauth-backend#readme",
   "dependencies": {
     "express": "^4.18.2",
