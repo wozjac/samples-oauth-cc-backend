@@ -1,11 +1,11 @@
 {
-  "name": "samples-oauth-backend",
+  "name": "samples-oauth-cc-backend",
   "version": "1.0.0",
   "description": "Sample OAuth protected backend",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wozjac/samples-oauth-backend.git"
+    "url": "git+https://github.com/wozjac/samples-oauth-cc-backend.git"
   },
   "author": "Jacek Woźniczak <wozjac@zoho.com> (https://jacekw.dev)",
   "license": "Unlicense",
